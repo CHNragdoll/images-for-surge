@@ -4,12 +4,8 @@
   "time": "2026-05-25",
   "icons": [
     {
-      "name": "Shopify_New",
-      "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/Shopify_20260525b.png"
-    },
-    {
-      "name": "Apple",
-      "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/Apple.png"
+      "name": "Shopify",
+      "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/Shopify.png"
     }
   ]
 }

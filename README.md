@@ -8,6 +8,20 @@ https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/icons.json
 
 ## JSON 结构
 
+### 最小可用样例（严格按 Surge 提示）
+
+```json
+{
+  "name": "Icon Set Name",
+  "icons": [
+    { "name": "Icon1", "url": "https://..." },
+    { "name": "Icon2", "url": "https://..." }
+  ]
+}
+```
+
+### 当前仓库样例
+
 ```json
 {
   "name": "CHNragdolls icons",

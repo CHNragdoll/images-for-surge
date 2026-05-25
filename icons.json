@@ -1,11 +1,11 @@
 {
-  "name": "CHNragdoll Icons",
+  "name": "CHNragdoll Icons Live",
   "description": "Custom icon set for Surge",
   "time": "2026-05-25",
   "icons": [
     {
-      "name": "Shopify",
-      "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/Shopify.png"
+      "name": "Shopify_New",
+      "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/Shopify_20260525b.png"
     }
   ]
 }

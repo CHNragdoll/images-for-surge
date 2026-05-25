@@ -20,5 +20,5 @@ Surge 对图标图片 URL 缓存很强。
 ## 当前文件
 
 - `icons.json`：订阅入口
-- `Shopify_20260525_234703.png`：Shopify 图标
-- `Apple.png`：Apple 图标
+- `images/Shopify_20260525_234703.png`：Shopify 图标
+- `images/Apple.png`：Apple 图标

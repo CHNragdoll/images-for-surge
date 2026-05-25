@@ -1,47 +1,24 @@
-# Surge 图片库（Raw 订阅）
+# Surge 图标订阅说明
 
-这个仓库提供：
-
-- `Shopify.png`：图片文件
-- `icons.json`：图片清单（可用 raw 订阅）
-
-## 1. 发布到 GitHub
-
-在当前目录执行：
-
-```bash
-cd "/Users/apple/Documents/PyCharm/images for surge"
-git init
-git add Shopify.png icons.json README.md
-git commit -m "init: add Shopify image library json"
-git branch -M main
-git remote add origin https://github.com/CHNragdoll/images-for-surge.git
-git push -u origin main
-```
-
-## 2. Raw 地址
-
-发布后可用：
-
-- 图片 raw：
-  - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/Shopify.png`
-- JSON raw：
-  - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/icons.json`
-
-## 3. 在 Surge 里使用
-
-### 方式 A：直接用图片 raw
-
-在需要图片 URL 的位置填：
-
-```text
-https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/Shopify.png
-```
-
-### 方式 B：订阅 JSON 清单
-
-在需要订阅/拉取图片库清单的工具中填：
+## 订阅地址
 
 ```text
 https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/icons.json
 ```
+
+## 关键规则（已验证）
+
+Surge 对图标图片 URL 缓存很强。  
+只替换同名图片（例如一直用 `Shopify.png`）可能不会刷新。
+
+要让 Surge 稳定更新图标，必须：
+
+1. 每次更新图片都改文件名（例如 `Shopify_20260525_234703.png`）。
+2. 同时修改 `icons.json` 里的对应 `url` 指向新文件名。
+3. 提交并推送后，在 Surge 刷新订阅。
+
+## 当前文件
+
+- `icons.json`：订阅入口
+- `Shopify_20260525_234703.png`：Shopify 图标
+- `Apple.png`：Apple 图标

@@ -1,16 +1,8 @@
 {
-  "name": "surge-image-library",
-  "description": "Image library for Surge raw subscription.",
-  "version": "1.0.0",
-  "updated_at": "2026-05-25",
-  "images": [
+  "name": "CHNragdoll Icons",
+  "icons": [
     {
-      "id": "shopify",
-      "title": "Shopify",
-      "file": "Shopify.png",
-      "format": "png",
-      "width": 512,
-      "height": 512,
+      "name": "Shopify",
       "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/Shopify.png"
     }
   ]

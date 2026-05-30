@@ -81,6 +81,7 @@ Surge 对图标图片 URL 缓存很强。
   - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/Shopify_20260525_234703.png`
 - `Apple`
   - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/Apple.png`
+  - 来源：`https://github.com/Semporia/Hand-Painted-icon/blob/master/Social_Media/Apple.png`
 - `EA`
   - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/Electronic_Arts_(@EA).png`
 - `Xiaohongshu`

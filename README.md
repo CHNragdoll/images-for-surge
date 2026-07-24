@@ -90,6 +90,8 @@ Surge 对图标图片 URL 缓存很强。
   - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/Xianyu_20260526_001620.png`
 - `Smilegate`
   - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/smilegate-favicon.png`
+- `JetBrains`
+  - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/JetBrains%20%E6%96%B9%E5%BD%A2%20Logo.png`
 
 ## 图片预览（images）
 
@@ -101,6 +103,7 @@ Surge 对图标图片 URL 缓存很强。
     <td><img src="images/Xianyu_20260526_001620.png" alt="Xianyu" width="96"></td>
     <td><img src="images/Xiaohongshu.png" alt="Xiaohongshu" width="96"></td>
     <td><img src="images/smilegate-favicon.png" alt="Smilegate" width="96"></td>
+    <td><img src="images/JetBrains%20%E6%96%B9%E5%BD%A2%20Logo.png" alt="JetBrains" width="96"></td>
   </tr>
   <tr>
     <td>Apple</td>
@@ -109,5 +112,6 @@ Surge 对图标图片 URL 缓存很强。
     <td>Xianyu</td>
     <td>Xiaohongshu</td>
     <td>Smilegate</td>
+    <td>JetBrains</td>
   </tr>
 </table>

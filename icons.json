@@ -1,7 +1,7 @@
 {
   "name": "CHNragdolls icons",
   "description": "Custom icon set for Surge",
-  "time": "2026-05-26 00:16:20",
+  "time": "2026-10-04 17:15:24",
   "icons": [
     {
       "name": "Shopify",
@@ -30,6 +30,10 @@
     {
       "name": "JetBrains",
       "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/JetBrains%20%E6%96%B9%E5%BD%A2%20Logo.png"
+    },
+    {
+      "name": "FreeMdict",
+      "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/FreeMdict.png"
     }
   ]
 }

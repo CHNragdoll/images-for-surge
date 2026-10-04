@@ -94,6 +94,9 @@ Surge 对图标图片 URL 缓存很强。
   - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/JetBrains%20%E6%96%B9%E5%BD%A2%20Logo.png`
 - `FreeMdict`
   - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/FreeMdict.png`
+- `Anki`
+  - `https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/Anki.png`
+  - 来源：本机 Anki 应用的 `anki.icns`，提取原始 512×512 图标。
 
 ## 图片预览（images）
 
@@ -107,6 +110,7 @@ Surge 对图标图片 URL 缓存很强。
     <td><img src="images/smilegate-favicon.png" alt="Smilegate" width="96"></td>
     <td><img src="images/JetBrains%20%E6%96%B9%E5%BD%A2%20Logo.png" alt="JetBrains" width="96"></td>
     <td><img src="images/FreeMdict.png" alt="FreeMdict" width="96"></td>
+    <td><img src="images/Anki.png" alt="Anki" width="96"></td>
   </tr>
   <tr>
     <td>Apple</td>
@@ -117,5 +121,6 @@ Surge 对图标图片 URL 缓存很强。
     <td>Smilegate</td>
     <td>JetBrains</td>
     <td>FreeMdict</td>
+    <td>Anki</td>
   </tr>
 </table>

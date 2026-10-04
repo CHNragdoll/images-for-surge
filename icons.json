@@ -1,7 +1,7 @@
 {
   "name": "CHNragdolls icons",
   "description": "Custom icon set for Surge",
-  "time": "2026-10-04 17:15:24",
+  "time": "2026-10-04 17:32:50",
   "icons": [
     {
       "name": "Shopify",
@@ -34,6 +34,10 @@
     {
       "name": "FreeMdict",
       "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/FreeMdict.png"
+    },
+    {
+      "name": "Anki",
+      "url": "https://raw.githubusercontent.com/CHNragdoll/images-for-surge/main/images/Anki.png"
     }
   ]
 }
